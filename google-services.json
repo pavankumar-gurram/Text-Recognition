@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "38103323570",
+    "project_id": "find-text-bd829",
+    "storage_bucket": "find-text-bd829.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38103323570:android:1d8659f3753287b79a0aab",
+        "android_client_info": {
+          "package_name": "com.example.findtext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38103323570-jiv08ta1fhs1r90afsh2c8r9i2pj2kp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr7nHZsviWjeDNY9MNVF58UJzLzCJIk-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38103323570-jiv08ta1fhs1r90afsh2c8r9i2pj2kp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
